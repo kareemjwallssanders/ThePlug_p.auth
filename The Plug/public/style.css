@@ -1,0 +1,131 @@
+body{
+  background-image: url('img/imgmain.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+  padding-top:80px;
+  /* word-wrap:break-word; */
+}
+
+
+img{
+  height: 200px;
+}
+
+
+/* .mainWrapper{
+} */
+
+.blklogin {
+  background-color: black;
+}
+
+.sinUpbody{
+  background-image: url('img/imgmain.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1{
+  font-size: 80px;
+}
+
+
+
+.show {
+  background-image: url();
+  background-repeat: no-repeat;
+  /* background-size: contain; */
+  background-position: center;
+
+}
+
+.show label, .show a, .show h1 {
+  color: white;
+}
+
+.tec {
+  color: red;
+}
+
+.show p {
+  background-color: black;
+  font-size: 1.5em;
+  color: red;
+}
+
+.btn-warning {
+    color: black;
+    background-color: white;
+    border-color: black;
+}
+
+.jumbotron p {
+  font-size: 2em;
+  color: white;
+}
+
+.pro {
+  font-size: 1.5em;
+  color: red;
+}
+
+.engine {
+  background-image: url("/public/images/uploads/sneaker2.jpg");
+}
+
+.engine h1{
+  color: red;
+}
+
+.redv {
+  color: red;
+}
+
+.what {
+  color: red;
+  font-size: 2em;
+}
+
+.col-sm-6 {
+  width: 80%;
+  margin: 2%;
+}
+
+.upPic {
+  color: white;
+  background-color: black;
+  width: 40%;
+  border-radius: 4px;
+
+}
+
+section {
+  background-color: black;
+  width: 22%;
+}
+
+.row p, .row h3, .row h2, .row span {
+  color: red;
+}
+
+.messages {
+  border-radius: 4px;
+  opacity: .88;
+  background-color: white;
+}
+
+img {
+  height: 300px;
+
+}
+
+.col-sm-6 {
+  width: auto;
+}
+
+.white {
+  background-color: black;
+  opacity: .88;
+
+}
